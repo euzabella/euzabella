@@ -1,0 +1,68 @@
+body{
+	background-color: #f2bde0;
+	text-align: center;
+	font-family: tahoma;
+	color:black;
+}
+
+
+h1 {
+	text-align: left;
+	font-size: 54px;
+	
+
+}
+.imagemcoracao {
+	width: 60%;
+	padding:15px;
+	border-image: 10px;
+	border:solid;
+	align: middle;
+}
+
+p{
+	font-size: 25px;
+}
+strong {
+	color:black;
+}
+.vantagens {
+	border-image: 15px;
+	border-color: #4df0d7;
+	text-align: left;
+	font-size:25px;
+	padding: 15px;
+	width: 100%;
+	font-style: italic;
+	
+}
+
+h2{
+	text-align: center;
+	font-size: 30px;
+	padding: 10px;
+}
+
+
+.itens {
+text-align: left;
+font-size: 20px;
+}
+
+h3 {
+	text-align: center;
+	padding:10px;
+	font-size: 30px;
+	width: 100%;
+
+}
+
+h4 {
+	font-size: 20px;
+	font-style: italic;
+}
+
+.work{
+	font-size: 14px;
+	
+}
